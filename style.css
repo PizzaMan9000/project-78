@@ -1,0 +1,13 @@
+body {
+    font-family:sans-serif;
+}
+
+button {
+    background-color:blue;
+    border: 3px solid lightblue;
+    color:white;
+    border-radius:5px;
+    padding:15px;
+    font-size: 20;
+}
+  
